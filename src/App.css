@@ -1,0 +1,10 @@
+.main-containert{
+    width: calc(100vw-1.25rem);
+}
+
+input{
+    width: 20rem;
+    padding: 2px;
+    border-radius: 8px;
+    
+}
